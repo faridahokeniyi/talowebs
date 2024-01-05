@@ -10,7 +10,7 @@ const Header = () => {
   ]
   return (
     <div>
-      <nav className="grid lg:grid-cols-3 grid-cols-2 lg:h-24 lg:m-0 m-6 items-center lg:px-20">
+      <nav className="grid lg:grid-cols-3 grid-cols-2 lg:h-24 lg:m-0 p-6 items-center lg:px-20">
         <div className="bg-green-300 rounded-md lg:px-9 lg:py-4 p-4 flex w-max">
           <img
             src="/Vector.svg"

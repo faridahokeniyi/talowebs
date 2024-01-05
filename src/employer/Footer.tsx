@@ -19,27 +19,33 @@ const Footer = () => {
           All rights reserved.
         </h4>
         <div className="flex">
-          <img
-            src="/twitter.png"
-            alt=""
-            height="40"
-            width="40"
-            className="mr-4"
-          />
-          <img
-            src="/linkedin.png"
-            alt=""
-            height="40"
-            width="40"
-            className="mr-4"
-          />
-          <img
-            src="/instagram.png"
-            alt=""
-            height="40"
-            width="40"
-            className="mr-4"
-          />
+          <a href="https://www.twitter.com/talojobs">
+            <img
+              src="/twitter.png"
+              alt=""
+              height="40"
+              width="40"
+              className="mr-4"
+            />
+          </a>
+          <a href="https://www.linkedin.com/company/talojobs">
+            <img
+              src="/linkedin.png"
+              alt=""
+              height="40"
+              width="40"
+              className="mr-4"
+            />
+          </a>
+          <a href="https://www.instagram.com/talojobs">
+            <img
+              src="/instagram.png"
+              alt=""
+              height="40"
+              width="40"
+              className="mr-4"
+            />
+          </a>
         </div>
         <div className="flex justify-around lg:mt-0 mt-12">
           <a href="#features" className="font-medium text-white">
