@@ -37,13 +37,13 @@ const SignUp = () => {
             >
               Home
             </a>
-            <a href="#features" className="font-medium dark:text-white">
+            <a href="#features" className="font-medium text-white">
               About Us
             </a>
-            <a href="#features" className="font-medium dark:text-white">
+            <a href="#features" className="font-medium text-white">
               What We Do
             </a>
-            <a href="/employer" className="font-medium dark:text-white">
+            <a href="/employer" className="font-medium text-white">
               Talo Hr
             </a>
           </div>
